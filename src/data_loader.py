@@ -11,7 +11,7 @@ dataset_path = kagglehub.dataset_download(
 print("Downloaded to:", dataset_path)
 
 # destination folder
-dest = "../data/raw"
+dest = "../SFHA-Project/data/raw"
 
 os.makedirs(dest, exist_ok=True)
 
