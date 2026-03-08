@@ -1,2 +1,2 @@
-# SFHA-Project
+# Capstone-Project
 SGHA Capstone Project
