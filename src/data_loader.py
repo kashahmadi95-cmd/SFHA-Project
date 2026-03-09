@@ -5,7 +5,7 @@ import os
 
 # download dataset
 dataset_path = kagglehub.dataset_download(
-    "caesarmario/oecd-data-crude-oil-production"
+    "sazidthe1/oil-production"
 )
 
 print("Downloaded to:", dataset_path)
