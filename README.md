@@ -28,6 +28,8 @@ This project combines machine learning forecasting with a Generative AI natural 
 │   ├── 02_ML.ipynb           # Model training, evaluation & comparison
 │   └── 03_GenAI.ipynb        # Gemini-powered natural language Q&A
 ├── output/                   # Saved charts and visualisations
+├── src/                      #Load raw data
+    └── data_loader.py            # Cleaned dataset with lag features
 ├── .env.example              # Template for environment variables
 ├── .gitignore
 └── README.md
